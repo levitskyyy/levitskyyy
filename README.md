@@ -14,7 +14,7 @@
 
 ### Python libs
 
-![aiogram](https://img.shields.io/badge/-AIOGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![mineflatyer](https://img.shields.io/badge/-MINEFLAYER-blue?style=for-the-badge&logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/-AIOGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![pyrogram](https://img.shields.io/badge/-PYROGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![flask](https://img.shields.io/badge/-FLASK-blue?style=for-the-badge&logo=python&logoColor=white) ![mineflatyer](https://img.shields.io/badge/-MINEFLAYER-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 How to reach me: 
 ![TELEGRAM](https://img.shields.io/badge/TELEGRAM-LINK-blue) https://t.me/ew2df
