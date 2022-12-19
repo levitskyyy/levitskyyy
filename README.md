@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on telegram bots, telegram userbots
 - 🤔 I’m looking for help with aiogram, pyrogram
+- 🎮 Sometimes I write bots for minecraft with Ai
 
 ## 🛠 Skills
 
