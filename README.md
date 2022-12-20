@@ -19,5 +19,5 @@
 
 ## 📫 How to reach me: 
 ![TELEGRAM](https://img.shields.io/badge/TELEGRAM-LINK-blue) 
-[CLICK](https://t.me/ew2df)
+![CLICK](https://t.me/ew2df)
 
