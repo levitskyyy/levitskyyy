@@ -21,5 +21,5 @@
 ![telebot](https://img.shields.io/badge/telebot-3776AB?style=for-the-badge&logo=go&logoColor=white)
 
 ## Links
-[![site](https://img.shields.io/badge/SITE-000000?style=for-the-badge&logo=&logoColor=white)](https://levitsky.gadmap.online)[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/levitskyyy) [![telegram](https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ew2df)
+[![site](https://img.shields.io/badge/SITE-000000?style=for-the-badge&logo=&logoColor=white)](https://levitsky.gadmap.online) [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/levitskyyy) [![telegram](https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ew2df)
 
