@@ -11,12 +11,15 @@
 
 ### Languages
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=white)
 
 ### Python libs
 
-![aiogram](https://img.shields.io/badge/-AIOGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![pyrogram](https://img.shields.io/badge/-PYROGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![flask](https://img.shields.io/badge/-FLASK-blue?style=for-the-badge&logo=python&logoColor=white) ![mineflatyer](https://img.shields.io/badge/-MINEFLAYER-blue?style=for-the-badge&logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/-AIOGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![pyrogram](https://img.shields.io/badge/-PYROGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![flask](https://img.shields.io/badge/-FLASK-blue?style=for-the-badge&logo=python&logoColor=white)
+
+### Golang libs
+![telebot](https://img.shields.io/badge/telebot-3776AB?style=for-the-badge&logo=go&logoColor=white)
 
 ## Links
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/levitskyyy) [![mineflatyer](https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ew2df)
+[![site](https://img.shields.io/badge/SITE-000000?style=for-the-badge&logo=&logoColor=white)](https://levitsky.gadmap.online)[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/levitskyyy) [![telegram](https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ew2df)
 
