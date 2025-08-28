@@ -1,23 +1,32 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there 👋
 
-## 📄 About me
+## 📌 About Me
+- 🔭 Currently working on **Telegram bots** & **userbots**  
+- 💎 Interested in **crypto & automation**  
+- 💻 Passionate about **backend development**  
 
-- 🔭 I’m currently working on telegram bots, telegram userbots
-- 💎 I love crypt
+---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-### Languages
+### 💡 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=white)
+### 🐍 Python Libraries  
+![Aiogram](https://img.shields.io/badge/Aiogram-2C2D72?style=for-the-badge&logo=python&logoColor=white)  
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
-### Python libs
+### 🚀 Go Libraries  
+![Telebot](https://img.shields.io/badge/Telebot-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
-![aiogram](https://img.shields.io/badge/-AIOGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![pyrogram](https://img.shields.io/badge/-PYROGRAM-blue?style=for-the-badge&logo=python&logoColor=white) ![flask](https://img.shields.io/badge/-FLASK-blue?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### Golang libs
-![telebot](https://img.shields.io/badge/telebot-3776AB?style=for-the-badge&logo=go&logoColor=white)
+## 🔗 Links
+[![Website](https://img.shields.io/badge/SITE-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://levitsky.gadmap.online)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/levitskyyy)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ew2df)  
 
-## Links
-[![site](https://img.shields.io/badge/SITE-000000?style=for-the-badge&logo=&logoColor=white)](https://levitsky.gadmap.online) [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/levitskyyy) [![telegram](https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ew2df)
-
+---
+⭐️ *Feel free to check my projects and drop a star if you like them!*
