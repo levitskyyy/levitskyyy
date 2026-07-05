@@ -29,7 +29,7 @@ Main language is Go — services, APIs, backends. Used to write a lot of Python,
 
 ---
 
-<img src="https://raw.githubusercontent.com/guzzzlikz/guzzzlikz/output/pacman-contribution-graph-dark.svg" width="100%"/>
+<img src="https://github.com/levitskyyy/levitskyyy/blob/bbb0102004b50d738e40892bf50ffb9a50115b53/pacman-contribution-graph-dark.svg" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer" width="100%"/>
